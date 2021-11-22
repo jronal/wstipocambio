@@ -1,6 +1,7 @@
 *Reto BCP by @jronal*
 
 ### depedendencias
+```
 spring-boot: 2.6.0
 spring-boot-starter-data-jpa
 spring-boot-starter-web
@@ -9,6 +10,8 @@ lombok
 jsonwebtoken
 bouncycastle
 rxjava2
+```
+
 
 ### build
 ```
